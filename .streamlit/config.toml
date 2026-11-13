@@ -1,0 +1,20 @@
+[theme]
+base = "dark"
+primaryColor = "#4a8ad6"
+backgroundColor = "#171719"
+secondaryBackgroundColor = "#131217"
+textColor = "#ffffff"
+borderColor = "#222224"
+font = "Public Sans:https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap"
+codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+headingFont = "Public Sans"
+baseRadius = "6px"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
